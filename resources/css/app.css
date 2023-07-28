@@ -1,0 +1,20 @@
+
+body{
+    color: #000000;
+}
+
+.bg-gray{
+    background-color:#F7F7F7!important;
+}
+
+.list-group-item{
+    cursor: pointer;
+}
+
+p{
+    color: #0b0b0b!important;
+}
+
+.text-black{
+    color: #000000;
+}

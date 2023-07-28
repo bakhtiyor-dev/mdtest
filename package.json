@@ -1,0 +1,49 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@babel/polyfill": "^7.12.1",
+        "@popperjs/core": "^2.10.2",
+        "axios": "^0.21",
+        "bootstrap": "^5.1.3",
+        "craftable": "^2.1.3",
+        "laravel-mix": "^6.0.6",
+        "laravel-mix-polyfill": "^3.0.1",
+        "lodash": "^4.17.19",
+        "postcss": "^8.1.14",
+        "resolve-url-loader": "^3.1.0",
+        "sass": "^1.32.11",
+        "sass-loader": "^11.0.1",
+        "vue-loader": "^15.9.8"
+    },
+    "dependencies": {
+        "@vertx/core": "^4.2.5",
+        "chart.js": "^2.9.4",
+        "components-unison": "^0.7.1",
+        "core-js": "^3.21.1",
+        "coreui": "^0.4.2-alpha2",
+        "es6-promise": "^4.2.8",
+        "moment": "^2.29.1",
+        "print-js": "^1.6.0",
+        "targets-webpack-plugin": "^4.0.0",
+        "vue-awesome-countdown": "^1.1.4",
+        "vue-chartjs": "^3.5.1",
+        "vue-loading-overlay": "3.0",
+        "vue-phone-number-input": "^1.1.12",
+        "vue-progressbar": "^0.7.5",
+        "vue-select": "^3.16.0",
+        "vue-slider-component": "^3.2.15",
+        "vue-suggestion": "^2.0.0",
+        "vue-sweetalert2": "^5.0.2",
+        "vue-wait": "^1.5.3",
+        "vuedraggable": "^2.24.3"
+    }
+}

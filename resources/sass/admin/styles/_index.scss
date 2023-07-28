@@ -1,0 +1,42 @@
+// Write (or import) your styles here
+
+.trumbowyg-box,
+.trumbowyg-editor {
+  min-height: 150px !important;
+}
+
+label {
+  color: #0b0b0b;
+  font-weight: 600;
+}
+
+.bg-gray {
+  background-color: #F7F7F7 !important;
+}
+
+.report {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.report-primary {
+  border-left: solid 4px $primary;
+}
+
+.report-danger {
+  border-left: solid 4px $danger;
+}
+
+.report-success {
+  border-left: solid 4px $success;
+}
+
+.report-success {
+  border-left: solid 4px $success;
+}
+
+.report-warning {
+  border-left: solid 4px $warning;
+}
+

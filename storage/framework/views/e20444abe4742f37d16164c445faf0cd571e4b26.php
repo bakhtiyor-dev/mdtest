@@ -1,0 +1,2 @@
+<link href="<?php echo e(mix('/css/admin.css')); ?>" rel="stylesheet">
+<?php /**PATH C:\OpenServer\domains\mdtesting\resources\views/vendor/brackets/admin-ui/admin/partials/main-styles.blade.php ENDPATH**/ ?>
